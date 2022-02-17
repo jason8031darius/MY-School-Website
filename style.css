@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+#img1{
+    height: 500px;
+    width: 1000px;
+}
+h5{
+    font: bold;
+}
+#menu{
+    position: sticky;
+}
+li{
+color: rgb(255, 255, 255);
+display: inline;
+padding-top: 5px;
+padding-left: 30px;
+padding-right: 9px;
+padding-bottom: 5px;
+text-align: left;
+float: left;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    }
+    .movie_head i{
+        float: right;
+    }
+    .achivment_text span{
+        color: orange;
+    }
+    #down{
+        float: right;
+    }
